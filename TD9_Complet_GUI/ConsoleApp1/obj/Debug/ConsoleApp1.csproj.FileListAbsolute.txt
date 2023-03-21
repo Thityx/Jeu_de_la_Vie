@@ -1,0 +1,43 @@
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\bin\Debug\EsilvGui.dll
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\bin\Debug\EsilvGui.dll
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Partie1GUI - Copie\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\EsilvGui.dll
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\bin\Debug\EsilvGui.dll
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Thibault\Documents\Thibault\Année_1\Prépas\Algorithmique\Semestre 2\TD9_Complet_GUI\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
